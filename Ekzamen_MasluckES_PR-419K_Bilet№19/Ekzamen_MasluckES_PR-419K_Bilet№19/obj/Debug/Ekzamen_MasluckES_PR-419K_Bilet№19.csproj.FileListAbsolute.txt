@@ -1,0 +1,16 @@
+C:\Users\pr-19-MasliukES\Desktop\Ekzamen_MasluckES_PR-419K_Bilet№19\Ekzamen_MasluckES_PR-419K_Bilet№19\bin\Debug\Ekzamen_MasluckES_PR-419K_Bilet№19.exe.config
+C:\Users\pr-19-MasliukES\Desktop\Ekzamen_MasluckES_PR-419K_Bilet№19\Ekzamen_MasluckES_PR-419K_Bilet№19\bin\Debug\Ekzamen_MasluckES_PR-419K_Bilet№19.exe
+C:\Users\pr-19-MasliukES\Desktop\Ekzamen_MasluckES_PR-419K_Bilet№19\Ekzamen_MasluckES_PR-419K_Bilet№19\bin\Debug\Ekzamen_MasluckES_PR-419K_Bilet№19.pdb
+C:\Users\pr-19-MasliukES\Desktop\Ekzamen_MasluckES_PR-419K_Bilet№19\Ekzamen_MasluckES_PR-419K_Bilet№19\obj\Debug\Ekzamen_MasluckES_PR-419K_Bilet№19.csproj.AssemblyReference.cache
+C:\Users\pr-19-MasliukES\Desktop\Ekzamen_MasluckES_PR-419K_Bilet№19\Ekzamen_MasluckES_PR-419K_Bilet№19\obj\Debug\Ekzamen_MasluckES_PR-419K_Bilet№19.csproj.SuggestedBindingRedirects.cache
+C:\Users\pr-19-MasliukES\Desktop\Ekzamen_MasluckES_PR-419K_Bilet№19\Ekzamen_MasluckES_PR-419K_Bilet№19\obj\Debug\MainWindow.g.cs
+C:\Users\pr-19-MasliukES\Desktop\Ekzamen_MasluckES_PR-419K_Bilet№19\Ekzamen_MasluckES_PR-419K_Bilet№19\obj\Debug\App.g.cs
+C:\Users\pr-19-MasliukES\Desktop\Ekzamen_MasluckES_PR-419K_Bilet№19\Ekzamen_MasluckES_PR-419K_Bilet№19\obj\Debug\Ekzamen_MasluckES_PR-419K_Bilet№19_MarkupCompile.cache
+C:\Users\pr-19-MasliukES\Desktop\Ekzamen_MasluckES_PR-419K_Bilet№19\Ekzamen_MasluckES_PR-419K_Bilet№19\obj\Debug\Ekzamen_MasluckES_PR-419K_Bilet№19_MarkupCompile.lref
+C:\Users\pr-19-MasliukES\Desktop\Ekzamen_MasluckES_PR-419K_Bilet№19\Ekzamen_MasluckES_PR-419K_Bilet№19\obj\Debug\MainWindow.baml
+C:\Users\pr-19-MasliukES\Desktop\Ekzamen_MasluckES_PR-419K_Bilet№19\Ekzamen_MasluckES_PR-419K_Bilet№19\obj\Debug\Ekzamen_MasluckES_PR-419K_Bilet№19.g.resources
+C:\Users\pr-19-MasliukES\Desktop\Ekzamen_MasluckES_PR-419K_Bilet№19\Ekzamen_MasluckES_PR-419K_Bilet№19\obj\Debug\Ekzamen_MasluckES_PR_419K_Bilet_19.Properties.Resources.resources
+C:\Users\pr-19-MasliukES\Desktop\Ekzamen_MasluckES_PR-419K_Bilet№19\Ekzamen_MasluckES_PR-419K_Bilet№19\obj\Debug\Ekzamen_MasluckES_PR-419K_Bilet№19.csproj.GenerateResource.cache
+C:\Users\pr-19-MasliukES\Desktop\Ekzamen_MasluckES_PR-419K_Bilet№19\Ekzamen_MasluckES_PR-419K_Bilet№19\obj\Debug\Ekzamen_MasluckES_PR-419K_Bilet№19.csproj.CoreCompileInputs.cache
+C:\Users\pr-19-MasliukES\Desktop\Ekzamen_MasluckES_PR-419K_Bilet№19\Ekzamen_MasluckES_PR-419K_Bilet№19\obj\Debug\Ekzamen_MasluckES_PR-419K_Bilet№19.exe
+C:\Users\pr-19-MasliukES\Desktop\Ekzamen_MasluckES_PR-419K_Bilet№19\Ekzamen_MasluckES_PR-419K_Bilet№19\obj\Debug\Ekzamen_MasluckES_PR-419K_Bilet№19.pdb
